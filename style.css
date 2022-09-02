@@ -1,0 +1,73 @@
+.ucLogo {
+  height: 50px;
+}
+
+.secondNavContainer {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.nav-item {
+  font-size: 14px;
+}
+
+#navContent {
+  color: red;
+}
+
+#button:hover {
+  color: red;
+}
+
+.container-fluid {
+  background-color: red;
+  color: white;
+  padding-bottom: 0%;
+}
+
+.headerSent {
+  margin-right: 28%;
+  margin-top: 20px;
+}
+
+#click {
+  color: darkgray;
+  text-decoration: underline;
+}
+
+#navContent2 {
+  color: black;
+}
+
+.picContainer {
+  border: solid;
+  height: 80vh;
+}
+
+.mainPic {
+  width: 100%;
+  padding-top: 0%;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: space-around;
+  border: solid;
+  height: 40vh;
+}
+
+.strong {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.featureCards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#featureText {
+  text-align: center;
+}
